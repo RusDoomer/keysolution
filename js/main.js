@@ -12,7 +12,7 @@ window.onload = async function() {
     stats.init()
     settings.init()
 
-    board.stagger()
+    board.ortho()
 
     base = await (await fetch('percentiles.json')).json()
 }
