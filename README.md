@@ -1,6 +1,6 @@
-# KeySolve
+# KeySolution
 
-![Keysolve](keysolve.png)
+![Keysolution](keysolve.png)
 
 ## How to Use
 
@@ -45,11 +45,11 @@ Lateral stretches are patterns that involve reaches into the outer index column 
 - On QWERTY, `et`, `ct`, and 'eg` are all examples of LSBs.
 
 **HS (Half-Scissor)**  
-A half-scissor is a pattern where one finger needs to stretch or contract to press a key on the top or bottom row and another finger on the same hand stays on the homerow - but the finger that is on the lower of the two rows is either middle or ring.
+A half-scissor is a pattern where one finger needs to stretch or contract to press a key on the top or bottom row and another finger on the same hand stays on the homerow.
 - `ok`, `sc`, and `rd` are common examples of half-scissors on QWERTY.
 
 **FS (Full-Scissor)**  
-A full-scissor is a pattern where one finger needs to reach to the top row and another finger on the same hand needs to contract to hit the bottom row - but the finger that is on the lower of two rows is either middle or ring.
+A full-scissor is a pattern where one finger needs to reach to the top row and another finger on the same hand needs to contract to hit the bottom row.
 - `cr`, `ex`, `xt` are all FSBs on QWERTY.
 
 ## Trigram Types
