@@ -116,6 +116,8 @@ export const LAYOUTS = {
     "crstm": "wlgdvbhuoycrstmfneai'jxkqzp/,.",
     "freq3": "jldmkqyou rnstfbhaeixpwgvzc   ",
     "aujus": ".oujpvglbziaetwyshnr,/;dkfcmxq",
+    "xenia": ",ourqjfdvgiaenxyhtcs.';lzkpmbw",
+    "realn": "bour~~pdvghaen~~itsck.'l~~ymfw",
     "ridge": "vmlwqzxou,strdgfnaeikjpc bh';.y",
     "fiend": "wlypb;mou'crstgqneifxjvdkzh,./a",
     "apt30": "vgdfbwluoyrsthkjneaixcmpqz,.'/",
