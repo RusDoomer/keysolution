@@ -102,11 +102,19 @@ function bigrams(key) {
     if (
         (
             row(key[0]) - row(key[1]) == -1 &&
-            hand(key[0]) == hand(key[1])
+            hand(key[0]) == hand(key[1]) &&
+            (
+                [1, 2, 7, 8].includes(finger(key[1])) ||
+                [1, 2, 7, 8].includes(finger(key[0]))
+            )
         ) ||
         (
             row(key[0]) - row(key[1]) == 1 &&
-            hand(key[0]) == hand(key[1])
+            hand(key[0]) == hand(key[1]) &&
+            (
+                [1, 2, 7, 8].includes(finger(key[1])) ||
+                [1, 2, 7, 8].includes(finger(key[0]))
+            )
         )
     ) {
         buckets.push('HS')
@@ -115,11 +123,19 @@ function bigrams(key) {
     if (
         (
             row(key[0]) - row(key[1]) == -2 &&
-            hand(key[0]) == hand(key[1])
+            hand(key[0]) == hand(key[1]) &&
+            (
+                [1, 2, 7, 8].includes(finger(key[1])) ||
+                [1, 2, 7, 8].includes(finger(key[0]))
+            )
         ) ||
         (
             row(key[0]) - row(key[1]) == 2 &&
-            hand(key[0]) == hand(key[1])
+            hand(key[0]) == hand(key[1]) &&
+            (
+                [1, 2, 7, 8].includes(finger(key[1])) ||
+                [1, 2, 7, 8].includes(finger(key[0]))
+            )
         )
     ) {
         buckets.push('FS')
