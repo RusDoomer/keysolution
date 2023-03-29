@@ -1,6 +1,6 @@
 # KeySolution - A more just KeySolve fork
 
-![Keysolution](keysolve.png)
+![Keysolution](keysolution.png)
 
 ## How to Use
 
