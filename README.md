@@ -17,7 +17,7 @@ You can toggle between the bigram/trigram/skipgram table and the use table by cl
 By clicking the button with the gear icon, you can see the layout in text form. Here you can either copy the layout to easily share it or use it with other analyzers, or you can paste in another layout.
 
 **Misc Features**  
-- You can flip a layout by clicking the `mirror` button.
+- You can flip a layout by clicking the `mirror` or `invert` buttons.
 - You can toggle between an ortholinear board or a row-staggered board by clicking the `board` button.
 
 ## Metric Classes
