@@ -18,7 +18,7 @@ window.onload = async function() {
 }
 
 window.info = function() {
-    const url = 'https://github.com/ClemenPine/keysolve-web'
+    const url = 'https://github.com/RusDoomer/keysolution'
     window.open(url, '_blank')
 }
 
