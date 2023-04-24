@@ -117,7 +117,7 @@ function bigrams(key) {
             )
         )
     ) {
-        buckets.push('HS')
+        buckets.push('HR')
     }
 
     if (
@@ -138,7 +138,7 @@ function bigrams(key) {
             )
         )
     ) {
-        buckets.push('FS')
+        buckets.push('FR')
     }
 
     return buckets
