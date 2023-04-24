@@ -75,6 +75,7 @@ export const LAYOUTS = {
     "ants": "xpmdf.roy,antsgqheiu/bwcz;ljkv",
     "flaw": "flawpzkur/hsoycmtenibj'gvqd.x,",
     "test": "qmldpzyoj/rcntbwueiaxgh  kf',.sv",
+    "hiyou": "kyou'fdlbwhiea.gstnrjq;,xvcmpz"
     "synth": "wlgfk/quoycsthbxreaijvmdpzn',.",
     "rsthd": "jcyfkzl,uqrsthdmnaio/vgpbxw.;-e",
     "test2": "vldmg-uoyfsrtcp.aeihqjkwx/,'; bnz",
