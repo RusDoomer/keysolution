@@ -1,4 +1,5 @@
 import * as drag from './drag.mjs'
+import * as disable from './disable.mjs'
 import * as classify from './classify.mjs'
 
 export let board = 'stagger'
@@ -17,8 +18,12 @@ export function layout() {
         if (key.classList.contains('empty')) {
             continue
         }
-
-        layout += key.innerHTML.toLowerCase()
+        
+        if (key.classList.contains('excluded')) {
+            layout += '�'
+        } else {
+            layout += key.innerHTML.toLowerCase()
+        }
     }
 
     return layout
@@ -51,6 +56,8 @@ export function update(layout) {
     }
 
     drag.init()
+    disable.init()
+    
     window.stats()
 }
 
