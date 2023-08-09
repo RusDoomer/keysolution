@@ -78,7 +78,7 @@ export const LAYOUTS = {
     
     "hiyou": "kyou'fdlbwhiea.gstnrjq;,xvcmpz",
     "xenia": ",ourqjfdvgiaenxyhtsc.';lzkpmbw",
-    "saiga": ".ourqfdlbwiaenxyhtsc./;jzkpmvg",
+    "saiga": ".ourqfdlbwiaenxyhtsc,/;jzkpmvg",
     "saiga-e": ";ourqfdlbweainxyhtsc/.,jzkpmvg",
     
     "synth": "wlgfk/quoycsthbxreaijvmdpzn',.",
