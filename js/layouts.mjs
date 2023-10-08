@@ -80,6 +80,7 @@ export const LAYOUTS = {
     "xenia": ",ourqjfdvgiaenxyhtsc.';lzkpmbw",
     "saiga": ".ourqfdlbwiaenxyhtsc,/;jzkpmvg",
     "saiga-e": ";ourqfdlbweainxyhtsc/.,jzkpmvg",
+    "krai": "jourqvdlbgeainxyhtsc/.,;zkpmfw",
     
     "synth": "wlgfk/quoycsthbxreaijvmdpzn',.",
     "rsthd": "jcyfkzl,uqrsthdmnaio/vgpbxw.;-e",
