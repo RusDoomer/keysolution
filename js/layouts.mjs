@@ -81,7 +81,8 @@ export const LAYOUTS = {
     "saiga": ".ourqfdlbwiaenxyhtsc,/;jzkpmvg",
     "saiga-e": ";ourqfdlbweainxyhtsc/.,jzkpmvg",
     "krai": "jourqvdlbgeainxyhtsc/.,;zkpmfw",
-    
+    "mir": "jourqfdlbgeainxyhtsc/.,z;kpmvw",
+
     "synth": "wlgfk/quoycsthbxreaijvmdpzn',.",
     "rsthd": "jcyfkzl,uqrsthdmnaio/vgpbxw.;-e",
     "test2": "vldmg-uoyfsrtcp.aeihqjkwx/,'; bnz",
