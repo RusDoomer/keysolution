@@ -83,6 +83,9 @@ export const LAYOUTS = {
     "krai": "jourqvdlbgeainxyhtsc/.,;zkpmfw",
     "mir": "jourqfdlbgeainxyhtsc/.,z;kpmvw",
 
+    "recurva": "frdpvqjuoysntcb.heaizxkgwml;',",
+    "recurva-colstag": "frdpvqmuoysntcb.heaizxkgwjl;',",
+    
     "synth": "wlgfk/quoycsthbxreaijvmdpzn',.",
     "rsthd": "jcyfkzl,uqrsthdmnaio/vgpbxw.;-e",
     "test2": "vldmg-uoyfsrtcp.aeihqjkwx/,'; bnz",
