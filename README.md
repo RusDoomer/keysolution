@@ -1,6 +1,6 @@
 # KeySolution - A more just KeySolve fork
 
-![Keysolution](keysolution.png)
+![Keysolution](keysolve.png)
 
 ## How to Use
 
@@ -57,11 +57,11 @@ A full-scissor is a pattern where one finger needs to reach to the top row and a
 **ALT (Alternation)**  
 An alternation sequence is when hand use alternates over three consecutive keypresses - either Left-Right-Left or Right-Left-Right.
 
-**ROL (Roll)**  
-A roll is when one hand presses two keys consecutively and is followed or preceded by a keypress on the other hand - either Left-Left-Right, Left-Right-Right, Right-Left-Left, or Right-Right-Left.
+**SRR (Same Row Roll)**  
+A roll is when one hand presses two keys consecutively and is followed or preceded by a keypress on the other hand - either Left-Left-Right, Left-Right-Right, Right-Left-Left, or Right-Right-Left. A Same Row Roll has the two keys pressed on one hand also on the same row.
 
-**ONE (Onehand)**  
-A onehand is when all three keypresses are pressed on the same hand, and in an order from left to right or right to left.
+**SRO (Same Row Onehand)**  
+A onehand is when all three keypresses are pressed on the same hand, and in an order from left to right or right to left. A Same Row Onehand has all keys on the same row.
 - `asd`, `sdf`, and `fds` are all onehands on QWERTY.
 
 **RED (Redirect)**  
