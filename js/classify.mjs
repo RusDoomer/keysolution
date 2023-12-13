@@ -157,9 +157,10 @@ function trigrams(key) {
     if (
         new Set(key.map(x => hand(x))).size == 2 &&
         new Set(key.map(x => finger(x))).size == 3 &&
+        new Set(key.map(x => row(x))).size == 1 &&
         hand(key[0]) != hand(key[2])
     ) {
-        buckets.push('ROL')
+        buckets.push('SRR')
     }
 
     if (
