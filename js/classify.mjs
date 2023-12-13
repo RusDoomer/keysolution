@@ -171,7 +171,7 @@ function trigrams(key) {
         new Set(key.map(x => row(x))).size == 1 &&
         ordered(key)
     ) {
-        buckets.push('ONE')
+        buckets.push('SRO')
     }
 
     if (
