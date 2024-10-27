@@ -44,12 +44,12 @@ SFs are patterns that involve using the same finger twice to hit both letters. T
 Lateral stretches are patterns that involve reaches into the outer index column with the index followed or preceded by middle finger use.
 - On QWERTY, `et`, `ct`, and 'eg` are all examples of LSBs.
 
-**HS (Half-Scissor)**  
-A half-scissor is a pattern where one finger needs to stretch or contract to press a key on the top or bottom row and another finger on the same hand stays on the homerow.
-- `ok`, `sc`, and `rd` are common examples of half-scissors on QWERTY.
+**HR (Half-Russor)**  
+A half-russor is a pattern where one finger needs to stretch or contract to press a key on the top or bottom row and another finger on the same hand stays on the homerow.
+- `ok`, `sc`, and `rd` are common examples of half-russors on QWERTY.
 
-**FS (Full-Scissor)**  
-A full-scissor is a pattern where one finger needs to reach to the top row and another finger on the same hand needs to contract to hit the bottom row. (NOTE: One finger must be either middle or ring)
+**FR (Full-Russor)**  
+A full-russor is a pattern where one finger needs to reach to the top row and another finger on the same hand needs to contract to hit the bottom row. (NOTE: One finger must be either middle or ring)
 - `cr`, `ex`, `xt` are all FSBs on QWERTY.
 
 ## Trigram Types
